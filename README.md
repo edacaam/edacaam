@@ -6,4 +6,3 @@
 
 - 💻 Programming languages I have worked before<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edacaam&show_icons=true" alt="edacaam" /></p>
